@@ -31,3 +31,8 @@ La structure actuelle du dépôt se présente comme suit :
 ├── LICENSE                       # Licence du projet
 ├── modél.ipynb                   # Modélisation et algorithmes de projection démographique
 └── README.md                     # Documentation du projet
+
+👥 Équipe du Projet
+FRITIT Sofyane — Data Analytics / Modélisation & Dashboard
+
+Moad Afylal — Binôme PFE
